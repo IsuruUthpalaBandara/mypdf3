@@ -182,7 +182,7 @@ const PDFMergerTool = () => {
 
   return (
     <div style={{
-      background: 'linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)',
+      background: 'linear-gradient(135deg, #fcfaffff 0%, #fefffbff 100%))',
       minHeight: '100vh',
       display: 'flex',
       justifyContent: 'center',
